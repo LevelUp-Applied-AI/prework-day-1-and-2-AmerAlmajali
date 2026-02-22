@@ -16,7 +16,7 @@
 | CPU Model | ( Intel Core i7-6500U ) |
 | CPU Cores | 2 |
 | Free Disk Space | (387.03 GB free) |
-| Internet Speed (Download) | 46.16 Mbps | 
+| Internet Speed (Download) | 46.16 Mbps |
 
 ---
 
