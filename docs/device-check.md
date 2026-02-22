@@ -30,8 +30,7 @@
 ] Screenshot: Free disk space
 - [<img width="733" height="305" alt="Screenshot 2026-02-22 112408" src="https://github.com/user-attachments/assets/a0b76c5e-39a2-4401-9098-e5903c303a34" />
 ] Screenshot: Internet speed test result
-- [<img width="1338" height="45" alt="Screenshot 2026-02-22 112448" src="https://github.com/user-attachments/assets/699a92b9-688b-464d-a70b-fc31ba179da6" />
-]![Uploading Screenshot 2026-02-22 112448.png…]()
+- [<img width="1338" height="45" alt="Screenshot 2026-02-22 112448" src="https://github.com/user-attachments/assets/699a92b9-688b-464d-a70b-fc31ba179da6" />]
  Screenshot: Admin rights confirmed
 
 **Windows only:**
@@ -47,3 +46,7 @@
 **Result:** [BUILTIN\Administrators                                        Alias            S-1-5-32-544 Mandatory group, Enabled by default, Enabled group, Group ownert, Confirmed via PowerShell]
 
 ---
+## Device Notes
+
+[Check wsl --status please <img width="388" height="71" alt="Screenshot 2026-02-22 112816" src="https://github.com/user-attachments/assets/d283807d-3b6e-4958-91b0-8f27c646fed2" />
+]
