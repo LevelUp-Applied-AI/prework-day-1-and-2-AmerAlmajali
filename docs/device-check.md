@@ -30,8 +30,7 @@
 ] Screenshot: Free disk space
 - [<img width="733" height="305" alt="Screenshot 2026-02-22 112408" src="https://github.com/user-attachments/assets/a0b76c5e-39a2-4401-9098-e5903c303a34" />
 ] Screenshot: Internet speed test result
-- [<img width="1338" height="45" alt="Screenshot 2026-02-22 112448" src="https://github.com/user-attachments/assets/699a92b9-688b-464d-a70b-fc31ba179da6" />
-]![Uploading Screenshot 2026-02-22 112448.png…]()
+- [<img width="1338" height="45" alt="Screenshot 2026-02-22 112448" src="https://github.com/user-attachments/assets/699a92b9-688b-464d-a70b-fc31ba179da6" />]
  Screenshot: Admin rights confirmed
 
 **Windows only:**
