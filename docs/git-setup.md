@@ -40,7 +40,10 @@ Run `git config --list` in your terminal and fill in your configured values:
 
 After cloning, output of `git status` from inside your repo:
 
-[Paste output here]
+On branch pr-01-git-setup
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        docs/git-setup.md
 
 
 ---
