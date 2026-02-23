@@ -28,3 +28,18 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+
+
+
+## About
+
+[One paragraph: who you are and what this repository is for.]
+
+I am a student learning Git and GitHub as part of my applied AI journey. This repository is created to practice version control fundamentals, including setting up Git, making commits, managing branches, and pushing code to GitHub. It serves as a hands-on workspace to build confidence with collaborative development workflows and repository management.
+
+## Setup
+
+```bash
+git https://github.com/LevelUp-Applied-AI/AmerAlmajali-prework.git
+cd prework-day-1-and-2-AmerAlmajali/
+
